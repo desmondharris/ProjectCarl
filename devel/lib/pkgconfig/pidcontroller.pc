@@ -1,0 +1,8 @@
+prefix=/home/ngs/ProjectCarl/devel
+
+Name: pidcontroller
+Description: Description of pidcontroller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

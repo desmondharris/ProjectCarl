@@ -1,0 +1,2 @@
+pidcontroller
+-DCATKIN_DEVEL_PREFIX=/home/ngs/ProjectCarl/devel -DCMAKE_INSTALL_PREFIX=/home/ngs/ProjectCarl/install -G Unix Makefiles
